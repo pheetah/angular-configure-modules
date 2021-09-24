@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ModuleSettings"
+  "defaultProject": "ModuleSettings",
+  "cli": {
+    "analytics": "41172a9b-4242-4ded-ba8a-078230641034"
+  }
 }
